@@ -1,5 +1,0 @@
-name: 'FishShop'
-description: 'Fishshop madaosir'
-runs:
-    using: 'node16'
-    main: 'github-action-runtime/src/index.js'
